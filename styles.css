@@ -1,0 +1,42 @@
+#color-box {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: #0a0a23 solid 3px;
+    margin: 0 auto;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#red-button {
+    width: 80px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#green-button {
+    width: 80px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#blue-button {
+    width: 80px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
